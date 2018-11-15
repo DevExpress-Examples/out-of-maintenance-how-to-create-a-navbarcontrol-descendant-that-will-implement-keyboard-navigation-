@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
+* [MyNavBarControl.cs](./CS/WindowsApplication1/MyNavBarControl.cs) (VB: [MyNavBarControl.vb](./VB/WindowsApplication1/MyNavBarControl.vb))
+<!-- default file list end -->
 # How to create a NavBarControl descendant that will implement keyboard navigation 
 
 
